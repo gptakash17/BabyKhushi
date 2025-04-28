@@ -3,6 +3,7 @@
  */
 var app = angular.module('angularjs', ['ngRoute']);
 
+//test 
 app.controller('MainCtrl', function($scope){
 
     $scope.onClickScrollToBottom = function(){
